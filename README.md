@@ -12,5 +12,5 @@ A powerful Telegram bot integrating AI chat, web search, and image analysis.
 ## 🛠️ Installation & Setup
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/Srivani-mula/Telegrambot.git)
    cd telegram-bot
