@@ -14,3 +14,12 @@ A powerful Telegram bot integrating AI chat, web search, and image analysis.
    ```sh
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/Srivani-mula/Telegrambot.git)
    cd telegram-bot
+📌 Commands
+/start – Start the bot & register user.
+/websearch – Perform a web search with AI.
+Send an image/document – Get AI analysis.
+📚 Tech Stack
+Python + Telebot
+Google Gemini API
+SerpAPI (Google Search)
+MongoDB (Cloud Database)
